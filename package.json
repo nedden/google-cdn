@@ -51,10 +51,10 @@
   "dependencies": {
     "async": "^2.0.0",
     "bower": "^1.4.1",
-    "cdnjs-cdn-data": "git://github.com/nedden/google-cdn-data.git",
+    "cdnjs-cdn-data": "~0.1.0",
     "debug": "^3.0.0",
     "escape-regexp": "0.0.1",
-    "google-cdn-data": "~0.1.0",
+    "google-cdn-data": "git://github.com/nedden/google-cdn-data.git",
     "regexp-quote": "0.0.0",
     "semver": "^5.0.1"
   }
